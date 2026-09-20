@@ -5,7 +5,7 @@ const parts = ['Lucifer Ascension', 'Lucifer Dominion', 'Saviour'];
 const roman = ['I', 'II', 'III'];
 const escapeHTML = value => String(value).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const displayTitle = item => item.title.replace(/^Rage of Symythia - /, '');
-const imageButton = (item, album = false) => `<button class="image-button" data-play="${item.id}" aria-label="${escapeHTML((album ? 'Listen to ' : 'Play ') + item.title)}"><img src="assets/${item.id}.jpg" alt="${escapeHTML(item.title)} artwork" loading="lazy" width="1280" height="720"><span class="play" aria-hidden="true">▷</span></button>`;
+const imageButton = (item, album = false) => `<button class="image-button" data-play="${item.id}" aria-label="${escapeHTML((album ? 'Listen to ' : 'Play ') + item.title)}"><img src="assets/${item.id}.jpg" onerror="this.onerror=null;this.src='https://i.ytimg.com/vi/${item.id}/hqdefault.jpg'" alt="${escapeHTML(item.title)} artwork" loading="lazy" width="1280" height="720"><span class="play" aria-hidden="true">▷</span></button>`;
 const description = item => `<details class="source-description"><summary>${item.kind === 'album' ? 'Album story & tracklist' : 'Original description'}</summary><div class="description">${escapeHTML(item.description)}</div></details>`;
 function card(item) {
   return `<article class="video-card">${imageButton(item)}<p class="eyebrow">${item.part ? `Part ${roman[item.part-1]} · ${parts[item.part-1]}` : 'Standalone story'}</p><h4>${escapeHTML(displayTitle(item))}</h4>${description(item)}</article>`;
