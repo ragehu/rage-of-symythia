@@ -1,5 +1,13 @@
 window.CATALOG = [
   {
+    "title": "Száraz tónak nedves partján",
+    "url": "https://www.youtube.com/watch?v=3axEB_rt82Y",
+    "description": "",
+    "id": "3axEB_rt82Y",
+    "part": null,
+    "kind": "video"
+  },
+  {
     "title": "When The Dust Learns Peace",
     "url": "https://www.youtube.com/watch?v=s9EJu9pwCMw",
     "description": "Three lives, divided by borders, beliefs and the weight of the past, find themselves beneath the same sky.\nWhen the Dust Learns Peace is a song about the walls we inherit, the wounds we pass on, and the choice to leave something different behind for those who come after us.\nSome borders are drawn in ink. Others exist only until someone reaches across them.\n\n\nFrom the same earth we were taken,\nunder the same burning sun.\nDifferent names upon our banners,\nyet our blood is always one.\nI saw a child beside the ruins,\ndrawing rivers in the sand,\nwhile the fathers raised their weapons,\nclaiming God was on their hand.\nHow many graves will make us holy?\nHow many sons must disappear?\nIf heaven hears us calling...\nwhy do we only answer fear?\nLay down the iron,\nopen your hands.\nNo sacred soil\nis worth the blood of man.\nLet the dust learn peace tonight,\nlet the old wounds lose their names.\nWe have walked through endless fire,\nwe have fed the ancient flames.\nNo more brother against brother,\nno more children born to grieve.\nUnder one sky, beneath one sun,\ngive us something to believe.\nEvery wall was built by someone,\nevery border drawn in ink.\nYet the rivers cross them freely,\nand the stars refuse to think.\nKings will fall and flags will wither,\nstone will crumble into sand.\nBut the hand that lifts another\nmay outlive the strongest land.\nLay down the iron,\nopen your hands.\nNo sacred soil\nis worth the blood of man.\nLet the dust learn peace tonight,\nlet the old wounds lose their names.\nWe have walked through endless fire,\nwe have fed the ancient flames.\nNo more brother against brother,\nno more children born to grieve.\nUnder one sky, beneath one sun,\ngive us something to believe.\nNot your temple.\nNot my shrine.\nNot your prophet.\nNot mine.\nIf the light is truly holy,\nit was never yours or mine.\nSalam...\nShalom...\nPeace upon the broken road.\nBreak the wheel!\nBreak the chain!\nDo not teach the child our pain!\nLET THE DUST LEARN PEACE TONIGHT,\nLET THE OLD WOUNDS LOSE THEIR NAMES!\nWe have walked through endless fire,\nwe will not become the flames.\nNo more brother against brother,\nno more children born to grieve.\nUnder one sky, beneath one sun,\nWE ARE WHAT WE CHOOSE TO BE.\nFrom the same earth we were taken...\nto the same earth we return.",
