@@ -110,5 +110,13 @@ window.CATALOG = [
     "id": "yCBswBHoX88",
     "part": null,
     "kind": "video"
+  },
+  {
+    "title": "Carmine Veil - The Gentleman in Crimson",
+    "url": "https://www.youtube.com/watch?v=6xW7Jacn65s",
+    "description": "The Gentleman in Crimson\nInk Before Blood\nThe Price of a Brother\nThrone of The Unbound Flame\nCrown of Adversary\nWhispers in The Ember Court\nAstral Schism\nThe Grand Disclosure\nThe Silent Refusal\nThe Immutable Law",
+    "id": "6xW7Jacn65s",
+    "part": null,
+    "kind": "video"
   }
 ];
