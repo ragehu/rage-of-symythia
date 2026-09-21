@@ -16,6 +16,14 @@ window.CATALOG = [
     "kind": "video"
   },
   {
+    "title": "Fortune Favors The Bold ( Until It Doesn't )",
+    "url": "https://www.youtube.com/watch?v=ZN_KCOip4DE",
+    "description": "",
+    "id": "ZN_KCOip4DE",
+    "part": null,
+    "kind": "video"
+  },
+  {
     "title": "Rage of Symythia - Eternal Kingdom",
     "url": "https://www.youtube.com/watch?v=tLaW3ym4taM",
     "description": "From the Album : Saviour",
