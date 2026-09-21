@@ -118,5 +118,13 @@ window.CATALOG = [
     "id": "6xW7Jacn65s",
     "part": null,
     "kind": "video"
+  },
+  {
+    "title": "Estocada - Ecos de una Leyenda",
+    "url": "https://www.youtube.com/watch?v=7CUL7Jpef5w",
+    "description": "Neoclassical Heavy Metal on Spanish Flamenco base.\nLife and tragedy of a Matador\n\nTracklist\n\nEl Llamado de la Arena\nSangre y Honor\nBajo el Sol de Andalucia\nEl Arte del Valor\nDanza del Matador\nGritos en la Plaza\nCuando el Ritmo Tiembla\nLa Últíma Corrida\nRojo en la Arena\nEcos de una Leyenda",
+    "id": "7CUL7Jpef5w",
+    "part": null,
+    "kind": "video"
   }
 ];
