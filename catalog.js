@@ -102,5 +102,13 @@ window.CATALOG = [
     "id": "3axEB_rt82Y",
     "part": null,
     "kind": "video"
+  },
+  {
+    "title": "Archaion - The Cycle Beyond Time",
+    "url": "https://www.youtube.com/watch?v=yCBswBHoX88",
+    "description": "Prologus - Tabula Stellaris\nAnunnaki Descendunt\nThe Architects of Dust\nCrystal Dominion of Atlantis\nHubris of the Seventh Flame\nEclipsed Crown\nCalendar of The Fifth Sun\nXibalba - Passage of Light\nChildren of The Returning Dawn\nEpilogue - Aeternum Sol Invictus",
+    "id": "yCBswBHoX88",
+    "part": null,
+    "kind": "video"
   }
 ];
