@@ -126,5 +126,13 @@ window.CATALOG = [
     "id": "7CUL7Jpef5w",
     "part": null,
     "kind": "video"
+  },
+  {
+    "title": "Aeterna - L'Eterna Sinfonia",
+    "url": "https://www.youtube.com/watch?v=_sX9s4X0HDg",
+    "description": "Italian classical Heavy Metal\n\nTracklist :\nIl Primo Invito\nIl Fuoco degli Dei\nLa Corona di Ferro\nSangue e Marmo\nDanze delle Ombre\nVoci Nel Vento\nIl Giuramento\nLa Caduta di Roma\nAria per un Eroe Perduto\nFiamme sull' Adriatico\nL'Eterna Sinfonia",
+    "id": "_sX9s4X0HDg",
+    "part": null,
+    "kind": "video"
   }
 ];
